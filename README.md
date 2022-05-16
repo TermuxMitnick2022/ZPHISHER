@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 ~$ pkg install git -y
 
-~$ git clone https://github.com/htr-tech/zphisher.git
+~$ git clone https://github.com/htr-tech/zphisher
 
 ~$ cd zphisher
 
